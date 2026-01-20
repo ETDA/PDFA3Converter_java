@@ -1,0 +1,1 @@
+java -jar "PDFA3Converter.jar" -inputFile "T01/Input_PDF/PDFTest.pdf" -outputFile "T01/Output/INV101-2569.pdf" -embedFile "T01/Input_XML/ETDA-invoice.xml" -colorProfile "T01/Color_Profile/sRGB Color Space Profile.icm" -metaDataFile "T01/metadata.json" -font "T01/Font"
